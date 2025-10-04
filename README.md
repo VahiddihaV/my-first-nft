@@ -1,1 +1,1 @@
-Update 7 — add contact line
+Update 8 — add license note
