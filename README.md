@@ -1,1 +1,1 @@
-Update 5 — add usage example
+Update 6 — add badge placeholder
