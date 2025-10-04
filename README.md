@@ -1,1 +1,1 @@
-Update 1 — minor README tweak
+Update 2 — small note
