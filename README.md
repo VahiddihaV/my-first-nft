@@ -1,1 +1,1 @@
-Update 6 — add badge placeholder
+Update 7 — add contact line
